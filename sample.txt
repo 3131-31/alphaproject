@@ -1,3 +1,2 @@
 my first file create inside alpha repo
-adding second line for tracking the changes
 third line for another tracking
